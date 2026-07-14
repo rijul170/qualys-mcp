@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "qualys-consulting": {
+      "type": "http",
+      "url": "http://localhost:8781/mcp"
+    },
+    "qualys-cloud": {
+      "type": "http",
+      "url": "http://localhost:8782/mcp"
+    }
+  }
+}
