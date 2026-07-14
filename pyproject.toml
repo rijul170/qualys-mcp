@@ -1,5 +1,5 @@
 [project]
-name = "qualys-mcp-server"
+name = "qualys-mcp-full"
 version = "0.1.0"
 description = "Model Context Protocol server for full Qualys portal management (VMDR, PC, WAS, Cloud Agent, Container Security, TotalCloud, Patch, CSAM, EASM, and more) across multiple Qualys consoles."
 readme = "README.md"
