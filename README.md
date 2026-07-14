@@ -3,6 +3,7 @@
 > A [Model Context Protocol](https://modelcontextprotocol.io) server for **full Qualys portal management** — expose VMDR, Policy Compliance, WAS, Cloud Agent, Container Security, TotalCloud, Patch Management, CSAM/GAV, EASM and administration to any MCP‑capable client (Claude, and other MCP hosts).
 
 <p>
+  <a href="https://github.com/rijul170/qualys-mcp/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/rijul170/qualys-mcp/actions/workflows/ci.yml/badge.svg"></a>
   <img alt="Python" src="https://img.shields.io/badge/python-3.11%2B-blue.svg">
   <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-green.svg">
   <img alt="MCP" src="https://img.shields.io/badge/MCP-server-black.svg">
@@ -182,6 +183,12 @@ trademarks of their respective owners. Use against your own subscriptions in
 accordance with your Qualys license and API terms. The software is provided
 "as is" (see [LICENSE](LICENSE)); you are responsible for what you run against
 your environment — especially the destructive tier.
+
+## Star history
+
+<a href="https://star-history.com/#rijul170/qualys-mcp&Date">
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=rijul170/qualys-mcp&type=Date">
+</a>
 
 ## License
 
