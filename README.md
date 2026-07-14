@@ -1,3 +1,5 @@
+<!-- mcp-name: io.github.rijul170/qualys-mcp -->
+
 # Qualys MCP
 
 > A [Model Context Protocol](https://modelcontextprotocol.io) server for **full Qualys portal management** — expose VMDR, Policy Compliance, WAS, Cloud Agent, Container Security, TotalCloud, Patch Management, CSAM/GAV, EASM and administration to any MCP‑capable client (Claude, and other MCP hosts).
