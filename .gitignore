@@ -35,6 +35,11 @@ dist/
 .coverage
 htmlcov/
 
+# MCP registry publisher CLI (downloaded locally; publishing runs via CI/OIDC)
+mcp-publisher
+mcp-publisher.exe
+mcp-publisher*.tar.gz
+
 # Editors / OS
 .idea/
 .vscode/
